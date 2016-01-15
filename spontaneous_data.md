@@ -1,6 +1,6 @@
 # 3.6 Spontaneous data
 
-Ekaterina Serova
+*Ekaterina Serova*
 
 “Spontaneous data” is the term that refers to the special kind of big data: the verbose data created by users of numerous social networks and services. Among other specific properties of spontaneous data are near-real time feed, textual representation, incompleteness, lack of structure or defined topic. Despite its various problems, spontaneous data has a large potential as a source of real-time analysis, event-detection and prediction, addressing social issues, health and crime topics.
 
