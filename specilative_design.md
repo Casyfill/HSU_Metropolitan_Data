@@ -18,7 +18,7 @@ Speculative design is a contemporary design movement which works with (towards) 
 ### Practical Assignment
 Students will be required to:
 - In groups, select a topic and create a coherent slideshow presentation (speculation) over potential ways particular technology might affect cities.
-- create a blogpost, covering presentation
+- create a blog post, covering presentation
 
 ### Bibliography
 
