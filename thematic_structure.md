@@ -1,2 +1,2 @@
-# Thematic structure
+# 2.2 Thematic structure
 
