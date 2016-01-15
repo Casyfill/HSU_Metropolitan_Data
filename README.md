@@ -5,6 +5,8 @@ This is the syllabus for the "Metropolitan data" course for urban planers at Gra
 ##Log (to be done)
 
 - [ ] Comments from authors and Lecturers
+- [ ] Metodology
+- [ ] Structure and thematic composition intro
 - [ ] Course Calendar
 - [ ] Lecturers: Data Science, Decision Making
 - [ ] Update Bibliography 
