@@ -26,6 +26,7 @@
 •	Individual Workload, hours: 6 
 
 ### Theme 5. Data-Driven Decisions
+
 •	Total hours: 12 
 •	Lectures: 4 
 •	Seminars: 4 
