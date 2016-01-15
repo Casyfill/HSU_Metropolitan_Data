@@ -13,6 +13,7 @@ Data science is, probably, the “hottest” discipline of the recent years. Alt
 ## Educational Formats
 - Lectures 
 - Seminar 
+- Problem set
 
 ## Practical Assignment
 Students will be required to:
