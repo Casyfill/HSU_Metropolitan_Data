@@ -9,10 +9,10 @@ Speculative design is a contemporary design movement which works with (towards) 
 - Speculative design and critical engineering 
 
 ### Educational Formats
-- lectures 
-- seminar 
-- problem set 
-- blog post 
+- Lectures 
+- Seminar 
+- Problem set 
+- Blog post 
 
 
 ### Practical Assignment
