@@ -17,7 +17,7 @@
    * [Data-driven decisions](data-driven_decisions.md)
    * [Data science](data_science.md)
    * [Spontaneous data](spontaneous_data.md)
-* [4. Grading](4grading.md)
+* [Grading](grading.md)
    * [Explanation of the grading system](explanation_of_the_grading_system.md)
    * [Description of the intermediate check-ins and of the final](description_of_the_intermediate_check-ins_and_of_t.md)
 
