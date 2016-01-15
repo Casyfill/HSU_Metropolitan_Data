@@ -2,23 +2,23 @@
 
 *Philipp Kats*, *Guest speaker (TBD)*
 
-Data science is, probably, the “hottest” discipline of the recent years. Although practical application of most statistical and machine learning techniques requires general background in statistics, it is important to understand basic concepts of Data science, as the potential of it’s application to urban subjects is really astonishing.
+Data science is, probably, the “hottest” discipline of the recent years. Although practical application of most statistical and machine learning techniques requires general background in statistics, it is important to understand basic concepts of Data science, as the potential of its application to urban subjects is really astonishing.
 
-•	Probability 
-•	Regression and Clustering 
-•	Supervised and unsupervised Machine Learning 
-•	Application 
+- Probability 
+- Regression and Clustering 
+- Supervised and unsupervised Machine Learning 
+- Application 
 
 
 ## Educational Formats
-•	lectures 
-•	seminar 
+- lectures 
+- seminar 
 
 ## Practical Assignment
 Students will be required to:
 
-•	perform an exploratory analysis over the data-set
-•	create a blog post over the topic, discussing particular data science technique and its implementations in urban studies.
+- perform an exploratory analysis over the data-set
+- create a blog post over the topic, discussing particular data science technique and its implementations in urban studies.
 
 
 ## Bibliography
