@@ -7,3 +7,5 @@ This is the syllabus for the "Metropolitan data" course for urban planers at Gra
 - [ ] Course Calendar
 - [ ] Lecturers: Data Science, Decision Making
 - [ ] Update Bibliography 
+- [ ] Practical assignments
+- [ ] Blog platform
