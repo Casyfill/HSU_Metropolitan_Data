@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [1. General describtion](1genetaldescribtion.md)
+   * [Formats](formats.md)
    * [describtion](describtion.md)
    * [Methodology](methodology.md)
        * [Formats](formats.md)
