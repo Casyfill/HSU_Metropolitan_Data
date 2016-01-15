@@ -10,7 +10,7 @@
    * [Specific Requirements](specific_requirements.md)
 * [Structure and thematic composition](structureandthematic_composition_md.md)
    * [Thematic structure](thematic_structure.md)
-* [Course content](course_content_md.md)
+* [Course content](coursecontent_md_md.md)
    * [Specilative design](specilative_design.md)
    * [Complexity and the science of cities](complexity_and_the_science_of_cities.md)
    * [Smart cities](smart_cities.md)
