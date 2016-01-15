@@ -4,13 +4,13 @@ Ekaterina Serova
 
 Smart city is a well-known and widely used term, which stands for the variety of urban phenomena and technologies used in cities, all having one common ground - data-driven centralization. The concept of a smart city appears to be, in a sense, a logical continuation of modernistic ideas, this time represented by international corporations. This block of lectures and seminars will help to understand the pros and cons of the concept and critically assess its popularity.
 
-•	Urban management 
-•	Smart Infrastructure 
-•	Smart cities around the world
+- Urban management 
+- Smart Infrastructure 
+- Smart cities around the world
 
 ###  Educational Formats
-•	lectures 
-•	seminar 
+- lectures 
+- seminar 
 
 ### Practical assignment
 Students will be required to:
