@@ -18,7 +18,7 @@ Students will be required to:
 - create a blogpost over the topic, discussing particular case or application of Smart city technologies
 
 
-Bibliography
+### Bibliography
 1.	Greenfield, A. (2013). Against the smart city.
 2.	Schaffers, H., Komninos, N., Pallot, M., Trousse, B., Nilsson, M., & Oliveira, A. (2011). Smart Cities and the Future Internet: Towards Cooperation Frameworks for Open Innovation. Future Internet Assembly, 6656, 431–446.
 3.	Shapiro, J. M. (2006). Smart cities: quality of life, productivity, and the growth effects of human capital. The Review of Economics and Statistics, 88(2), 324–335.
