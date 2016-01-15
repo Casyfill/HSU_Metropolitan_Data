@@ -1,2 +1,2 @@
-# Main goals of the course
+# 1.4 Main goals of the course
 
