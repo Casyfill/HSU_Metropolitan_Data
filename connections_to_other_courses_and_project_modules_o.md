@@ -1,2 +1,2 @@
-# 1.5Connections to other courses and project modules of the Program
+# 1.5 Connections to other courses and project modules of the Program
 
