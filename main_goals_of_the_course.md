@@ -1,6 +1,7 @@
 # 1.4 Main goals of the course
 
 The main goals of the course are:
+
 - to broaden students’s understanding of the principles of information design and management 
 - to provide basic knowledge on urban information sources and flows 
 - to explain how information is used in city management and decision making, both on macro and micro levels 
