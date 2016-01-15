@@ -4,16 +4,16 @@ Ekaterina Serova
 
 The value of any data is estimated by the effect it makes on our plans and decisions. Therefore, the skill of using the most of data. The lecture covers the main approaches of optimization and risk modeling with the use of modern computational tools.
 
-•	Optimization and efficiency frontier
-•	Stochastic modeling and risk management 
-•	Simulation and Monte-Carlo approaches
-•	Application in urban management
+- Optimization and efficiency frontier
+- Stochastic modeling and risk management 
+- Simulation and Monte-Carlo approaches
+- Application in urban management
 
 
 ## Educational Formats
-•	lectures 
-•	seminar 
-•	student blog 
+- lectures 
+- seminar 
+- student blog 
 
 ## Practical assignment
 
