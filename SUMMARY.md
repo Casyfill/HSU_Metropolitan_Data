@@ -10,7 +10,7 @@
    * [Connections to other courses and project modules of the Program](connections_to_other_courses_and_project_modules_o.md)
    * [Specific Requirements](specific_requirements.md)
 * [2. Structure and thenatic composition](2structure_and_thenatic_composition_md.md)
-   * describtion
+   * [describtion](describtion2.md)
 * [3. Course content](3_course_content.md)
 * [4. Grading](4_grading.md)
 
