@@ -19,8 +19,8 @@ The value of any data is estimated by the effect it makes on our plans and decis
 
 Students will be required to:
 
-- solve a set of optimisation problems
-- in groups, define an urban optimisation/risk problem for Moscow, and make an attemnpt to solve it, using data and information available
+- solve a set of optimization problems
+- in groups, define an urban optimization/risk problem for Moscow, and make an attempt to solve it, using data and information available
 
 
 
