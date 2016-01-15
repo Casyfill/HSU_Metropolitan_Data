@@ -1,7 +1,5 @@
 # Introduction
 
-1. Title of the Course: **Metropolitan Data**
-2. Duration: **Second semester (First year)**
-3. Total hours: **76 hours**
-4. Author/lecturer: **Philipp Kats**, **Ekaterina Serova**
-5. Invited speakers: **TBD**
+This is the syllabus for the "Metropolitan data" course for urban planers, 
+
+This syllabus will be later improved and cloned as a basis for conspect and presentation sample
