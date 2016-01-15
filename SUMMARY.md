@@ -6,6 +6,7 @@
    * [Methodology](methodology.md)
    * [Formats](formats.md)
    * [Main goals of the course](main_goals_of_the_course.md)
+   * Multidisciplinarity
 * [2. Structure and thenatic composition](2structure_and_thenatic_composition_md.md)
 * [3. Course content](3_course_content.md)
 * [4. Grading](4_grading.md)
