@@ -17,8 +17,8 @@ Data science is, probably, the “hottest” discipline of the recent years. Alt
 ## Practical Assignment
 Students will be required to:
 
-•	perform an exloratory analysis over the dataset
-•	create a blogpost over the topic, discussing particular data science technique and it’s implementations in urban studies.
+•	perform an exploratory analysis over the data-set
+•	create a blogpost over the topic, discussing particular data science technique and its implementations in urban studies.
 
 
 ## Bibliography
