@@ -14,6 +14,6 @@
    * [Thematic structure](thematic_structure.md)
 * [3. Course content](3course_content_md.md)
    * [3,1 Specilative design](specilative_design.md)
-   * Complexity and the science of cities
+   * [Complexity and the science of cities](complexity_and_the_science_of_cities.md)
 * [4. Grading](4grading.md)
 
