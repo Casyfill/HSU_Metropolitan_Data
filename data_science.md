@@ -18,7 +18,7 @@ Data science is, probably, the “hottest” discipline of the recent years. Alt
 Students will be required to:
 
 •	perform an exploratory analysis over the data-set
-•	create a blogpost over the topic, discussing particular data science technique and its implementations in urban studies.
+•	create a blog post over the topic, discussing particular data science technique and its implementations in urban studies.
 
 
 ## Bibliography
