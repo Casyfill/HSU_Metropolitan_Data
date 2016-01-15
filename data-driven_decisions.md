@@ -10,12 +10,12 @@ The value of any data is estimated by the effect it makes on our plans and decis
 •	Application in urban management
 
 
-  Educational Formats
+## Educational Formats
 •	lectures 
 •	seminar 
 •	student blog 
 
-Practical assignment
+## Practical assignment
 
 Students will be required to:
 
