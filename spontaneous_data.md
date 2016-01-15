@@ -4,20 +4,20 @@ Ekaterina Serova
 
 “Spontaneous data” is the term that refers to the special kind of big data: the verbose data created by users of numerous social networks and services. Among other specific properties of spontaneous data are near-real time feed, textual representation, incompleteness, lack of structure or defined topic. Despite it’s various problems, spontaneous data has a large potential as a source of real-time analysis, event-detection and prediction, addressing social issues, health and crime topics.
 
-•	 Spontaneous data
-•	sources and apis
-•	real-world examples
-•	flaws and limitations
+- Spontaneous data
+- sources and API
+- real-world examples
+- flaws and limitations
 
 ## Educational Formats
-•	lectures 
-•	seminar 
+- lectures 
+- seminar 
 
 ## Practical Assignment
 Students will be required to:
 
-•	perform exploratory analysis over the dataset
-•	create a blog post on the topic, describing the particular case of Spontaneous data implementation
+- perform exploratory analysis over the dataset
+- create a blog post on the topic, describing the particular case of Spontaneous data implementation
 
 ## Bibliography
 
