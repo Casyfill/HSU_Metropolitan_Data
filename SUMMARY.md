@@ -11,7 +11,7 @@
    * [Specific Requirements](specific_requirements.md)
 * [2. Structure and thenatic composition](2structure_and_thenatic_composition_md.md)
    * [describtion](describtion2.md)
-   * Thematic structure
+   * [Thematic structure](thematic_structure.md)
 * [3. Course content](3_course_content.md)
 * [4. Grading](4_grading.md)
 
