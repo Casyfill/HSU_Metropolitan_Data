@@ -13,5 +13,6 @@
    * [describtion](describtion2.md)
    * [Thematic structure](thematic_structure.md)
 * [3. Course content](3course_content_md.md)
+   * 3,1 Specilative design
 * [4. Grading](4_grading.md)
 
