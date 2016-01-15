@@ -9,13 +9,13 @@ Smart city is a well-known and widely used term, which stands for the variety of
 - Smart cities around the world
 
 ###  Educational Formats
-- lectures 
-- seminar 
+- Lectures 
+- Seminar 
 
 ### Practical assignment
 Students will be required to:
 
-- create a blogpost over the topic, discussing particular case or application of Smart city technologies
+- Create a blogpost over the topic, discussing particular case or application of Smart city technologies
 
 
 ### Bibliography
