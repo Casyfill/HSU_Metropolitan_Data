@@ -10,17 +10,18 @@ Data science is, probably, the “hottest” discipline of the recent years. Alt
 •	Application 
 
 
-Educational Formats
+## Educational Formats
 •	lectures 
 •	seminar 
-Practical Assignment
+
+## Practical Assignment
 Students will be required to:
 
 •	perform an exloratory analysis over the dataset
 •	create a blogpost over the topic, discussing particular data science technique and it’s implementations in urban studies.
 
 
-Bibliography
+## Bibliography
 
 1.	Anderson, C. (2008). The end of theory: The data deluge makes the scientific method obsolete. 
 2.	Batty, M. (1976). Urban modelling: algorithms calibrations, predictions. Cambridge ; New York: Cambridge University Press. 
