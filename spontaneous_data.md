@@ -16,7 +16,7 @@ Ekaterina Serova
 ## Practical Assignment
 Students will be required to:
 
-- perform exploratory analysis over the dataset
+- perform exploratory analysis over the data-set
 - create a blog post on the topic, describing the particular case of Spontaneous data implementation
 
 ## Bibliography
