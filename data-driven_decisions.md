@@ -24,7 +24,7 @@ Students will be required to:
 
 
 
-Bibliography
+## Bibliography
 
 1.	Larson, R. C., & Odoni, A. R. (1981). Urban operations research. 
 2.	Jayakrishnan, R., Mahmassani, H. S., & Hu, T.-Y. (1994). An evaluation tool for advanced traffic information and management systems in urban networks. Transportation Research Part C: Emerging Technologies, 2(3), 129–147.
