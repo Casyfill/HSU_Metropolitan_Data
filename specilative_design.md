@@ -1,6 +1,6 @@
 # 3.1 Specilative design
 
-Philipp Kats, Ekaterina Serova
+*Philipp Kats*, *Ekaterina Serova*
 
 Speculative design is a contemporary design movement which works with (towards) possible technological and social challenges, rather than reacting to existing ones. As technology rapidly changes the world around us, often changing things we least expect to be affected, this approach is useful for estimation of the effects of the future innovations and technical solutions to city problems.
 
