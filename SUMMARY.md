@@ -18,6 +18,6 @@
    * [Smart cities](smart_cities.md)
    * [Data-driven decisions](data-driven_decisions.md)
    * [Data science](data_science.md)
-   * Spontaneous data
+   * [Spontaneous data](spontaneous_data.md)
 * [4. Grading](4grading.md)
 
