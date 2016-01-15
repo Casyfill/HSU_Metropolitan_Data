@@ -1,17 +1,17 @@
 # 3.2 Complexity and the science of cities
 
-Philipp Kats
+*Philipp Kats*
 
 Science of cities is a new science, which sees cities as integrated systems with some generalizable features and properties. This movement came to be known after the famous paper by Geoffrey West and Luis Betankur, published in the Nature magazine under the title “A unified theory of urban living”
 
 - Complexity and emergent properties
 - City as a system 
-- System approach. System’s properties  
+- System approach. Systemic properties  
 - New science of cities 
   
 ## Educational Formats
-- lectures 
-- seminar 
+- Lectures 
+- Seminar 
 
 
 ## Practical assignment
