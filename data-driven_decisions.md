@@ -12,16 +12,16 @@ The value of any data is estimated by the effect it makes on our plans and decis
 
 
 ## Educational Formats
-- lectures 
-- seminar 
-- student blog 
+- Lectures 
+- Seminar 
+- Student blog 
 
 ## Practical assignment
 
 Students will be required to:
 
-- solve a set of optimization problems
-- in groups, define an urban optimization/risk problem for Moscow, and make an attempt to solve it, using data and information available
+- Solve a set of optimization problems
+- In groups, define an urban optimization/risk problem for Moscow, and make an attempt to solve it, using data and information available
 
 
 
