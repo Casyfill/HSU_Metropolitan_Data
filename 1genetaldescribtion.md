@@ -1,2 +1,10 @@
 # 1. General describtion
 
+1. Title of the Course: **Metropolitan Data**
+2. Duration: **Second semester (First year)**
+3. Total hours: **76 hours**
+4. Author/lecturer: **Philipp Kats**, **Ekaterina Serova**
+5. Invited speakers: **TBD**
+
+In the past decades we saw multiple disciplines, for instance, sociology and linguistics changing significantly under the influence and with the help of fast developing computer sciences. Today, when technology finally conquered our big cities, it offers new possibilities and presents new challenges. It is now the turn of urban planning, management, and design to be rethought through new technologies. There is, indeed, a great potential for an urban technological revolution, as the whole institution of urban management and governance is based on data-driven decisions. Data classification and analysis benefit immensely from the advantages contemporary technology brings. Therefore, it is very important that various urban professionals understand fundamental technological concepts and learn how to deal with their potential limitations and bottlenecks on the daily basis.
+This course provides basic knowledge on information technologies, techniques, and practicalities of contemporary urban informatics to students with no specific technical background, while helping to use informatics to solve complex city problems. It is a case-based course which requires only general analytical skills and the ability to think critically. 
