@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [1. General describtion](1genetaldescribtion.md)
+* [General describtion](genetaldescribtion.md)
    * [Methodology](methodology.md)
    * [Formats](formats.md)
    * [Main goals of the course](main_goals_of_the_course.md)
