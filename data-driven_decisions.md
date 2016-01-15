@@ -14,7 +14,7 @@ The value of any data is estimated by the effect it makes on our plans and decis
 ## Educational Formats
 - Lectures 
 - Seminar 
-- Student blog 
+
 
 ## Practical assignment
 
