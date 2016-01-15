@@ -1,6 +1,7 @@
 # 3.4 Data-driven decisions
 
-Ekaterina Serova
+*Ekaterina Serova*
+
 
 The value of any data is estimated by the effect it makes on our plans and decisions. Therefore, the skill of using the most of data. The lecture covers the main approaches of optimization and risk modeling with the use of modern computational tools.
 
