@@ -1,6 +1,6 @@
-# 2.2 Thematic structure
+# 2.1 Thematic structure
 
-## 2.2.1  Hours per theme
+## 2.1.1  Hours per theme
 
 ### Theme 1. Speculative Design
 - Total hours: 12 
@@ -39,7 +39,7 @@
 - Individual Workload, hours: 4 
 
 
-## 2.2.2  Themes per week
+## 2.1.2  Themes per week
 
 - Week 1: Speculative Design 
 - Week 2: Complexity and the science of cities 
