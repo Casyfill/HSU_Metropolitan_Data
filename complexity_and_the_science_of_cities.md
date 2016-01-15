@@ -12,6 +12,7 @@ Science of cities is a new science, which sees cities as integrated systems with
 ## Educational Formats
 - Lectures 
 - Seminar 
+- Student blog 
 
 
 ## Practical assignment
