@@ -9,7 +9,7 @@
    * [Multidisciplinarity](multidisciplinarity.md)
    * [Connections to other courses and project modules of the Program](connections_to_other_courses_and_project_modules_o.md)
    * [Specific Requirements](specific_requirements.md)
-* [2. Structure and thematic composition](2structure_and_thematic_composition.md)
+* [2. Structure and thematic composition](2structureand_thematic_composition.md)
    * [describtion](describtion2.md)
    * [Thematic structure](thematic_structure.md)
 * [3. Course content](3course_content_md.md)
