@@ -1,2 +1,2 @@
-# 2. Structure and thenatic composition
+# 2. Structure and thematic composition
 
