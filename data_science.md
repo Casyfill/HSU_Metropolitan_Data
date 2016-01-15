@@ -11,14 +11,14 @@ Data science is, probably, the “hottest” discipline of the recent years. Alt
 
 
 ## Educational Formats
-- lectures 
-- seminar 
+- Lectures 
+- Seminar 
 
 ## Practical Assignment
 Students will be required to:
 
-- perform an exploratory analysis over the data-set
-- create a blog post over the topic, discussing particular data science technique and its implementations in urban studies.
+- Perform an exploratory analysis over the data-set
+- Create a blog post over the topic, discussing particular data science technique and its implementations in urban studies.
 
 
 ## Bibliography
