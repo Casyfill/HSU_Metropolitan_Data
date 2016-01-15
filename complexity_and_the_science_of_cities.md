@@ -9,17 +9,17 @@ Science of cities is a new science, which sees cities as integrated systems with
 - System approach. System’s properties  
 - New science of cities 
   
-### Educational Formats
+## Educational Formats
 - lectures 
 - seminar 
 
 
-###Practical assignment
+## Practical assignment
 Students will be required to:
 
 - create a blogpost over the topic, discussing particular aspect or application of Science of cities.
 
-### Bibliography
+## Bibliography
 
 1.	Batty, M. (2013). The new science of cities. MIT Press 
 2.	Bettencourt, Luis, and Geoffrey West. “A unified theory of urban living.” Nature467, no. 7318 (2010): 912-913.
